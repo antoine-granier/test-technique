@@ -13,4 +13,4 @@ L'utilisation de librairies externes est autorisée. Faites des choix judicieux.
 
 ## 📩 Rendu
 Utilisation de git pour le rendu. Création d'un repo et utilisation continue pendant la réalisation du test. Une bonne utilisation de git est un plus (gestion des branches, commit clairs et concis).
-Si vous souhaitez mettre en ligne votre test cela est possible et apprécié, mais pas obligatoire.
+Si vous souhaitez mettre en ligne votre test c'est possible et apprécié, mais pas obligatoire.
