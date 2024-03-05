@@ -9,3 +9,8 @@ https://hubeau.eaufrance.fr/page/api-temperature-continu#
 
 ## 💻 Technologie
 Le test doit être réalisé en React.js ou en PHP.
+L'utilisation de librairies externes est autorisé. Faites des choix judicieux. Si vous utiliser React, jetez un coup d'oeil à Tanstack Query (https://tanstack.com/query/latest) c'est un petit conseil 😉.
+
+## 📩 Rendu
+Utilisation de git pour le rendu. Création d'un repo et utilisation continue pendant la réalisation du test. Une bonne utilisation de git est un plus (gestion des branches, commit claires et conscis).
+Si vous souhaitez mettre en ligne votre test cela est possible et apprécié, mais pas obligatoire.
