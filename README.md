@@ -7,7 +7,7 @@ Vous devez réaliser une interface web de type dashboard, permettant de consulte
 Vous devrez, pour les données, utiliser l'API Hubeau - TEMPÉRATURE DES COURS D'EAU :
 https://hubeau.eaufrance.fr/page/api-temperature-continu#
 
-## 💻 Technologie
+## 💻 Technologies
 Le test doit être réalisé en React.js ou en PHP.
 L'utilisation de librairies externes est autorisé. Faites des choix judicieux. Si vous utiliser React, jetez un coup d'oeil à Tanstack Query (https://tanstack.com/query/latest) c'est un petit conseil 😉.
 
