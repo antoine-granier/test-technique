@@ -12,5 +12,5 @@ Le test doit être réalisé en React.js ou en PHP.
 L'utilisation de librairies externes est autorisée. Faites des choix judicieux. Si vous utilisez React, jetez un coup d'oeil à Tanstack Query (https://tanstack.com/query/latest) c'est un petit conseil 😉.
 
 ## 📩 Rendu
-Utilisation de git pour le rendu. Création d'un repo et utilisation continue pendant la réalisation du test. Une bonne utilisation de git est un plus (gestion des branches, commit clairs et concis).
+Utilisation de git pour le rendu. Création d'un repo et utilisation continue pendant la réalisation du test. Une bonne utilisation de git est un plus (gestion des branches, commit clairs et concis). N'oubliez pas de mettre votre repo en public.
 Si vous souhaitez mettre en ligne votre test c'est possible et apprécié, mais pas obligatoire.
