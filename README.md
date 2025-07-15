@@ -8,7 +8,7 @@ Vous devrez, pour les données, utiliser l'API Hubeau - TEMPÉRATURE DES COURS D
 https://hubeau.eaufrance.fr/page/api-temperature-continu#
 
 ## 💻 Technologies
-Le test doit être réalisé en React.js ou en PHP.
+Le test doit être réalisé en React.js ou en PHP en prenant soin d'utiliser Tailwind pour le style.
 L'utilisation de librairies externes est autorisée. Faites des choix judicieux. Si vous utilisez React, jetez un coup d'oeil à Tanstack Query (https://tanstack.com/query/latest) c'est un petit conseil 😉.
 
 ## 📩 Rendu
