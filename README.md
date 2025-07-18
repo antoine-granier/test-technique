@@ -17,4 +17,3 @@ De plus, la mise en ligne de l'application (pas besoin d'un nom de domaine) sera
 
 ## 📩 Rendu
 Utilisation de git pour le rendu. Création d'un repo et utilisation continue pendant la réalisation du test. Une bonne utilisation de git est un plus (gestion des branches, commit clairs et concis). N'oubliez pas de mettre votre repo en public.
-Si vous souhaitez mettre en ligne votre test c'est possible et apprécié, mais pas obligatoire.
